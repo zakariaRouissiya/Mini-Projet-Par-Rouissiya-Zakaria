@@ -1,0 +1,6 @@
+/* Le corps de la page */
+body {
+  margin: 0; /* Supprime les marges par défaut */
+  overflow: hidden; /* Cache les débordements */
+  background-color: #000; /* Définit la couleur de fond en noir */
+}
